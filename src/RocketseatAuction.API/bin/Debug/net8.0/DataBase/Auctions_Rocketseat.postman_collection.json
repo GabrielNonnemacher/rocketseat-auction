@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "7fa9565e-3319-4a13-8301-c63fe66e3037",
+		"name": "🟢 Auctions Rocketseat🟢",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22120902",
+		"_collection_link": "https://grey-crescent-476736.postman.co/workspace/08839936-922d-4522-9622-f56b8b6182e4/collection/22120902-7fa9565e-3319-4a13-8301-c63fe66e3037?action=share&source=collection_link&creator=22120902"
+	},
+	"item": [
+		{
+			"name": "List Auctions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5275/api/Auction",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5275",
+					"path": [
+						"api",
+						"Auction"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "id",
+			"value": "1"
+		},
+		{
+			"key": "base_url",
+			"value": "https://postman-rest-api-learner.glitch.me/"
+		}
+	]
+}
