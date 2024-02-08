@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RocketseatAuction.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("UseCases.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e179f96541f86614cdc89d691a73c837475221d9")]
-[assembly: System.Reflection.AssemblyProductAttribute("RocketseatAuction.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RocketseatAuction.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("UseCases.Test")]
+[assembly: System.Reflection.AssemblyTitleAttribute("UseCases.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
